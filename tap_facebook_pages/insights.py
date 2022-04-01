@@ -292,15 +292,15 @@ INSIGHT_STREAMS = [
         ]
     },
     # page_insight_video_ad_break
-    {
-        "class": PageInsights,
-        "name": "page_insight_video_ad_break",
-        "metrics": [
-            "page_daily_video_ad_break_ad_impressions_by_crosspost_status",
-            "page_daily_video_ad_break_cpm_by_crosspost_status",
-            "page_daily_video_ad_break_earnings_by_crosspost_status",
-        ]
-    },
+    # {
+    #     "class": PageInsights,
+    #     "name": "page_insight_video_ad_break",
+    #     "metrics": [
+    #         "page_daily_video_ad_break_ad_impressions_by_crosspost_status",
+    #         "page_daily_video_ad_break_cpm_by_crosspost_status",
+    #         "page_daily_video_ad_break_earnings_by_crosspost_status",
+    #     ]
+    # },
 
     # POST INSIGHTS
     # post_insight_engagement
@@ -436,14 +436,14 @@ INSIGHT_STREAMS = [
     },
 
     # post_insight_video_ad_break
-    {
-        "class": PostInsights,
-        "name": "post_insight_video_ad_break",
-        "metrics": [
-            "post_video_ad_break_ad_impressions",
-            "post_video_ad_break_earnings",
-            "post_video_ad_break_ad_cpm",
-        ]
-    },
+    # {
+    #     "class": PostInsights,
+    #     "name": "post_insight_video_ad_break",
+    #     "metrics": [
+    #         "post_video_ad_break_ad_impressions",
+    #         "post_video_ad_break_earnings",
+    #         "post_video_ad_break_ad_cpm",
+    #     ]
+    # },
 
 ]
