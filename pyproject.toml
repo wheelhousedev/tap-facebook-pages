@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tap-facebook-pages"
-version = "0.0.1"
+version = "1.0.0"
 description = "`tap-facebook-pages` is Singer-compliant facebook-pages tap built with Singer SDK."
 authors = ["Egi Gjevori <egi.gjevori@y42.com>"]
 license = "Apache v2"
